@@ -47,7 +47,7 @@ namespace Flappy_Bird
             this.pipeTop.Image = global::Flappy_Bird.Properties.Resources.pipedown;
             this.pipeTop.Location = new System.Drawing.Point(317, -86);
             this.pipeTop.Name = "pipeTop";
-            this.pipeTop.Size = new System.Drawing.Size(81, 188);
+            this.pipeTop.Size = new System.Drawing.Size(81, 189);
             this.pipeTop.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pipeTop.TabIndex = 0;
             this.pipeTop.TabStop = false;
@@ -65,9 +65,9 @@ namespace Flappy_Bird
             // pipeBottom
             // 
             this.pipeBottom.Image = global::Flappy_Bird.Properties.Resources.pipe;
-            this.pipeBottom.Location = new System.Drawing.Point(383, 278);
+            this.pipeBottom.Location = new System.Drawing.Point(383, 253);
             this.pipeBottom.Name = "pipeBottom";
-            this.pipeBottom.Size = new System.Drawing.Size(81, 241);
+            this.pipeBottom.Size = new System.Drawing.Size(81, 266);
             this.pipeBottom.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pipeBottom.TabIndex = 3;
             this.pipeBottom.TabStop = false;
@@ -92,6 +92,7 @@ namespace Flappy_Bird
             // 
             // flappyBird
             // 
+            this.flappyBird.BackColor = System.Drawing.Color.Transparent;
             this.flappyBird.Image = global::Flappy_Bird.Properties.Resources.bird;
             this.flappyBird.Location = new System.Drawing.Point(55, 144);
             this.flappyBird.Name = "flappyBird";

@@ -42,7 +42,7 @@ namespace Flappy_Bird
 
             if(flappyBird.Bounds.IntersectsWith(pipeBottom.Bounds) ||
                 flappyBird.Bounds.IntersectsWith(pipeTop.Bounds) ||
-                flappyBird.Bounds.IntersectsWith(ground.Bounds)
+                flappyBird.Bounds.IntersectsWith(ground.Bounds) || flappyBird.Top < -25
                 )
             {
                 endGame();
@@ -58,6 +58,8 @@ namespace Flappy_Bird
             {
                 pipeSpeed = 13;
             }
+
+           
         }
 
         private void gamekeyisdown(object sender, KeyEventArgs e)
