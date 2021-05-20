@@ -20,6 +20,7 @@ namespace Flappy_Bird
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void gameTimerEvent(object sender, EventArgs e)
@@ -41,11 +42,15 @@ namespace Flappy_Bird
             }
 
             if(flappyBird.Bounds.IntersectsWith(pipeBottom.Bounds) ||
-                flappyBird.Bounds.IntersectsWith(pipeTop.Bounds) ||
-                flappyBird.Bounds.IntersectsWith(ground.Bounds) || flappyBird.Top < -25
+                flappyBird.Bounds.IntersectsWith(pipeTop.Bounds) || flappyBird.Top < -25
                 )
             {
                 endGame();
+            }
+
+            if(flappyBird.Bounds.IntersectsWith(ground.Bounds))
+            {
+                endGame2();
             }
 
 
@@ -83,6 +88,16 @@ namespace Flappy_Bird
 
         private void endGame()
         {
+            
+            gameTimer.Stop();
+            scoreText.Text += " Game Over!";
+        }
+
+        private void endGame2()
+        {
+            ground.Controls.Add(flappyBird);
+            flappyBird.Location = new Point(50, 0);
+            flappyBird.BackColor = Color.Transparent;
             gameTimer.Stop();
             scoreText.Text += " Game Over!";
         }

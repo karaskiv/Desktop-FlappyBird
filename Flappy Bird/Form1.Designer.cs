@@ -65,9 +65,9 @@ namespace Flappy_Bird
             // pipeBottom
             // 
             this.pipeBottom.Image = global::Flappy_Bird.Properties.Resources.pipe;
-            this.pipeBottom.Location = new System.Drawing.Point(383, 253);
+            this.pipeBottom.Location = new System.Drawing.Point(383, 306);
             this.pipeBottom.Name = "pipeBottom";
-            this.pipeBottom.Size = new System.Drawing.Size(81, 266);
+            this.pipeBottom.Size = new System.Drawing.Size(81, 213);
             this.pipeBottom.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pipeBottom.TabIndex = 3;
             this.pipeBottom.TabStop = false;
@@ -94,7 +94,7 @@ namespace Flappy_Bird
             // 
             this.flappyBird.BackColor = System.Drawing.Color.Transparent;
             this.flappyBird.Image = global::Flappy_Bird.Properties.Resources.bird;
-            this.flappyBird.Location = new System.Drawing.Point(55, 144);
+            this.flappyBird.Location = new System.Drawing.Point(34, 93);
             this.flappyBird.Name = "flappyBird";
             this.flappyBird.Size = new System.Drawing.Size(63, 46);
             this.flappyBird.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -107,11 +107,11 @@ namespace Flappy_Bird
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Aqua;
             this.ClientSize = new System.Drawing.Size(527, 518);
-            this.Controls.Add(this.scoreText);
             this.Controls.Add(this.flappyBird);
+            this.Controls.Add(this.scoreText);
+            this.Controls.Add(this.pipeTop);
             this.Controls.Add(this.ground);
             this.Controls.Add(this.pipeBottom);
-            this.Controls.Add(this.pipeTop);
             this.Name = "Form1";
             this.Text = " ";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gamekeyisdown);
