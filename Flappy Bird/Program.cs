@@ -17,7 +17,7 @@ namespace Flappy_Bird
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new scoreText());
+            Application.Run(new Form1());
         }
     }
 }
