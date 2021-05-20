@@ -1,0 +1,19 @@
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.exe
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.deps.json
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.json
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.dev.json
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.dll
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\ref\Flappy Bird.dll
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.pdb
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy_Bird.Form1.resources
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy_Bird.Properties.Resources.resources
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfo.cs
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.dll
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\ref\Flappy Bird.dll
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.pdb
+C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.genruntimeconfig.cache
