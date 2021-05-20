@@ -48,6 +48,16 @@ namespace Flappy_Bird
                 endGame();
             }
 
+
+            if(score > 5)
+            {
+                pipeSpeed = 10;
+            }
+
+            if(score > 15)
+            {
+                pipeSpeed = 13;
+            }
         }
 
         private void gamekeyisdown(object sender, KeyEventArgs e)
