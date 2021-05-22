@@ -30,12 +30,12 @@ namespace Flappy_Bird
             pipeTop.Left -= pipeSpeed;
             scoreText.Text = "Score: " + score;
 
-            if(pipeBottom.Left < -150)
+            if(pipeBottom.Left < -135)
             {
                 pipeBottom.Left = 680;
                 score++;
             }
-            if(pipeTop.Left < -180)
+            if(pipeTop.Left < -185)
             {
                 pipeTop.Left = 720;
                 score++;
@@ -54,14 +54,14 @@ namespace Flappy_Bird
             }
 
 
-            if(score > 5)
+            if (score > 5)
             {
                 pipeSpeed = 10;
             }
 
             if(score > 15)
             {
-                pipeSpeed = 13;
+                pipeSpeed = 16;
             }
 
            
@@ -69,7 +69,7 @@ namespace Flappy_Bird
 
         private void gamekeyisdown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode == Keys.Space)
+            if(e.KeyCode == Keys.Up)
             {
                 gravity = -11;
             }
@@ -79,7 +79,7 @@ namespace Flappy_Bird
 
         private void gamekeyisup(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Space)
+            if (e.KeyCode == Keys.Up)
             {
                 gravity = 11;
             }
@@ -88,9 +88,17 @@ namespace Flappy_Bird
 
         private void endGame()
         {
+            if (score > 20)
+            {
+                gameTimer.Stop();
+                scoreText.Text += " Game Over -> High Score!";
+            }
+            else
+            {
+                gameTimer.Stop();
+                scoreText.Text += " Game Over!";
+            }
             
-            gameTimer.Stop();
-            scoreText.Text += " Game Over!";
         }
 
         private void endGame2()
@@ -101,5 +109,6 @@ namespace Flappy_Bird
             gameTimer.Stop();
             scoreText.Text += " Game Over!";
         }
+
     }
 }
