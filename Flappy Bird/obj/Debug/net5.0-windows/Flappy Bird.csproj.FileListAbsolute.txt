@@ -17,3 +17,22 @@ C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Fla
 C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\ref\Flappy Bird.dll
 C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.pdb
 C:\Users\WIN10\source\repos\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.genruntimeconfig.cache
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.exe
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.deps.json
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.json
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.dev.json
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.dll
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\ref\Flappy Bird.dll
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.pdb
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.AssemblyReference.cache
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy_Bird.Form1.resources
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy_Bird.Properties.Resources.resources
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.GenerateResource.cache
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfo.cs
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.dll
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\ref\Flappy Bird.dll
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.pdb
+D:\Game Development\Custom Flappy Bird\Desktop-FlappyBird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.genruntimeconfig.cache

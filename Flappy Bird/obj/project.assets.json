@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\WIN10\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WIN10\\source\\repos\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
+      "projectUniqueName": "D:\\Game Development\\Custom Flappy Bird\\Desktop-FlappyBird\\Flappy Bird\\Flappy Bird.csproj",
       "projectName": "Flappy Bird",
-      "projectPath": "C:\\Users\\WIN10\\source\\repos\\Flappy Bird\\Flappy Bird\\Flappy Bird.csproj",
-      "packagesPath": "C:\\Users\\WIN10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WIN10\\source\\repos\\Flappy Bird\\Flappy Bird\\obj\\",
+      "projectPath": "D:\\Game Development\\Custom Flappy Bird\\Desktop-FlappyBird\\Flappy Bird\\Flappy Bird.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Game Development\\Custom Flappy Bird\\Desktop-FlappyBird\\Flappy Bird\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\WIN10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
